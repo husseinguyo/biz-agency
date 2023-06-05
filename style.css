@@ -48,7 +48,7 @@ html {
  font-weight: 400;
  text-transform: uppercase;
  color: #fff;
- text-shadow: 3rem;
+ text-shadow: 0. 3rem 0.3rem 0.6rem rgba(0, 0, 0, 0.5);
 }
 
 

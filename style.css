@@ -49,6 +49,10 @@ html {
  text-transform: uppercase;
  color: #fff;
  text-shadow: 0. 3rem 0.3rem 0.6rem rgba(0, 0, 0, 0.5);
+ position: absolute;
+ width: 100%;
+ display: flex;
+ justify-content: center;
 }
 
 .banner-paragraph {
@@ -72,6 +76,9 @@ html {
  text-transform: uppercase;
  border-radius: 3rem;
  border: 0.1rem solid #800505;
+ box-shadow: 1rem 2rem rgba(0,0,0,0.5);
+ text-shadow: 0.6rem 0.3rem 0.2rem rgba(0,0,0,0.4);
+ cursor: pointer;
 }
 
 
